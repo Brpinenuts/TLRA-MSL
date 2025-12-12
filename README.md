@@ -1,6 +1,9 @@
 # TLRA-MSL
 This project provides an implementation for "Anomaly Detection for Hyperspectral Imagery via Tensor Low-Rank Approximation With Multiple Subspace Learning".
 
+<img width="1203" height="739" alt="flowchart" src="https://github.com/user-attachments/assets/692d832d-27f7-4d77-b349-1eac4765115f" />
+
+
 If this code or part of it is helpful to you, please cite the following paper.
 
     @article{he2023anomaly,
